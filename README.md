@@ -1,5 +1,5 @@
 # Me and php
-php for beginners , write your first php code , build your first application with php.
+PHP for beginners , write your first php code , build your first application with php and learn fast.
 
 ## What is php ? 🤔
 
