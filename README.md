@@ -3,4 +3,4 @@ php for beginners , write your first php code , build your first application wit
 
 ## Hello world
 
-[I'm a relative reference to a repository file](../blob/master/hello_world.md)
+[Hello world](../master/hello_world.md) :blush:
