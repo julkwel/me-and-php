@@ -3,7 +3,7 @@ PHP for beginners, write your first php code, build your first application with 
 
 ### What is php ? 🤔
 
-`- PHP is a server side scripting language stands for Hypertext Pre-processor and used to develop static or dynamic websites or Web application.` 👨‍💻  👩‍💻
+`- PHP is a server side scripting language which stands for Hypertext Pre-processor and is used to develop static or dynamic websites or Web applications.` 👨‍💻  👩‍💻
 
 ### What is scripting language ? 🕵️‍♂️
 
@@ -12,14 +12,6 @@ PHP for beginners, write your first php code, build your first application with 
 ### Why use PHP ? 😏
 
 `- PHP is open source and free, large community document and most web hosting servers support PHP by default ` 🤗
-
-### Hello world 💥
-
-```php
-<?php 
-  echo 'Hello world';
-?>
-```
 
 ### Installation
 
@@ -36,7 +28,7 @@ PHP for beginners, write your first php code, build your first application with 
 ```
 
 ### Variables
-`PHP variable are denoted with a ` $ `sign , php code always end with ` ; `ex :` 
+`PHP variable are denotes fixes with a ` $ `sign , php code always end with ` ; `ex :` 
 ```php
 <?php
   $name = 'Susane';
