@@ -1,5 +1,5 @@
 # Me and php
-PHP for beginners , write your first php code , build your first application with php and learn fast.
+PHP for beginners, write your first php code, build your first application with php and learn fast.
 
 ### What is php ? 🤔
 
@@ -11,7 +11,7 @@ PHP for beginners , write your first php code , build your first application wit
 
 ### Why use PHP ? 😏
 
-`- PHP is open source and free , large community document and most web hosting servers support PHP by default ` 🤗
+`- PHP is open source and free, large community document and most web hosting servers support PHP by default ` 🤗
 
 ### Hello world 💥
 
