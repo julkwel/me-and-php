@@ -3,4 +3,4 @@ php for beginners , write your first php code , build your first application wit
 
 ## Hello world
 
-[Hello world](../master/hello_world.md) :blush:
+[Hello world](https://github.com/julkwel/me-and-php/blob/master/hello_world.md)
