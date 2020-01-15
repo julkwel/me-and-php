@@ -45,6 +45,6 @@ Float | are floating-point numbers | `$float = 12.3;`
 Boolean | Have two possible values `true` or `false` | `$bool = false;`
 NULL |Special type has one value `NULL` | `$null = null;`
 String | sequences of characters | `$strValues = 'My name is potato';`
-Array | indexed collections values | `$arr = array('name',['potato'],1);`
+Array | indexed collections values | `$arr = array('name',1,2);`
 Objects | instances of classes | `$herbie = new Person();`
 Resources | It is the storing of a reference to functions and resources external to PHP | database call
