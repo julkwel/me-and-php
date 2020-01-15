@@ -1,5 +1,5 @@
 # Me and php
-PHP for beginners, write your first php code, build your first application with php and learn fast.
+PHP documentation for beginners, write your first php code, build your first application with php.
 
 ### What is php ? 🤔
 
@@ -24,14 +24,14 @@ PHP for beginners, write your first php code, build your first application with 
 ```
 `And short-open tags look like :`
 ```php
-<?...?>
+<? ... ?>
 ```
 
 ### Variables
 `PHP variable are denotes fixes with a ` $ `sign , php code always end with ` ; `ex :` 
 ```php
 <?php
-  $name = 'Susane';
+  $name= 'Susane';
 ?>
 ```
 
