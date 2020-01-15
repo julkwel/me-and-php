@@ -44,7 +44,7 @@ Integers | Numbers without a decimal point | `$number = 123;`
 Float | are floating-point numbers | `$float = 12.3;`
 Boolean | Have two possible values `true` or `false` | `$bool = false;`
 NULL |Special type has one value `NULL` | `$null = null;`
-String | sequences of characters | `$strValues = 'I'm potato';`
-Array | indexed collections values | `$arr = array('name',1,2);`
+String | sequences of characters | `$strValues = 'Potato';`
+Array | indexed collections values | `$arr = array(0,1,2);`
 Objects | instances of classes | `$herbie = new Person();`
 Resources | It is the storing of a reference to functions and resources external to PHP | database call
